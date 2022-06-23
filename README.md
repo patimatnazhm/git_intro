@@ -1,2 +1,3 @@
-echo "# Как пользоваться Git" > README.md
-echo '- [Как сделать новый коммит](./commmit_help.md)' >> README.md
+# Как пользоваться Git
+- [Как сделать новый коммит](./commmit_help.md)
+- [Как посмотреть историю](./log_help.md)
